@@ -16,4 +16,9 @@ represents and the length of the line is proportional to that bin count.
 
 Code reference: Opencv 3 computer vision application (Robert Laganiere)
 
+## Authors:
+ * EL-ALAOUI Ali
+ * ELKHADOURI Ayoub
+ * EL AYACHI Abde ElAziz
+
 
